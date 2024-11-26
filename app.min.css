@@ -66,8 +66,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     animation: loader-figure 1.15s infinite cubic-bezier(0.215, 0.61, 0.355, 1)
 }
 .loader-label {
-    float: left;
-    margin-left: 50%;
+    float: right;
+    margin-right: 50%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
