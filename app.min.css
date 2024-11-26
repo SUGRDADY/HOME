@@ -715,24 +715,24 @@ textarea {
     }
 }
 .top-navbar .nav-item svg+.title {
-    margin-right: 8px
+    margin-left: 8px
 }
 .top-navbar .nav-item svg+.title+.arrow-hover {
-    margin-right: 8px
+    margin-left: 8px
 }
 .top-navbar .nav-item:first-child>a {
-    padding-right: 0
+    padding-left: 0
 }
 .top-navbar .nav-item:last-child>a {
-    padding-left: 0
+    padding-right: 0
 }
 .top-navbar.navbar-expand-lg .navbar-nav .nav-link:not(:first-child), .top-navbar.navbar-expand-lg .navbar-nav .nav-link:not(:last-child) {
     padding: .5rem 1rem
 }
 .top-navbar .search-trigger {
-    margin-right: 1rem;
-    border-right: 1px solid rgba(255, 255, 255, 0.15);
-    padding-right: 1rem !important
+    margin-left: 1rem;
+    border-left: 1px solid rgba(255, 255, 255, 0.15);
+    padding-left: 1rem !important
 }
 .top-navbar .dropdown-menu {
     margin: 0;
